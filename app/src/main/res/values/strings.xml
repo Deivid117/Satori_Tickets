@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Satori Tickets</string>
+
+    // Login Screen
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Ingresar</string>
+    <string name="errorEmpty">Error, campo vacío</string>
+    <string name="errorInvalidField">No es un correo válido</string>
+    <string name="errorEmailOrPassword">Correo o contraseña incorrectos</string>
+
+    // Chat Screen
+    <string name="chat">Chat</string>
+    <string name="sendMessage">Escribe un mensaje</string>
+
+    // Message Screen
+    <string name="messages">Mensajes</string>
+
+    // Ticket Screen
+    <string name="tickets">Tickets</string>
+    <string name="requestTicket">Solicitar Ticket</string>
+    <string name="ticketAttended">Ticket atendido</string>
+    <string name="addTicket">Añadir Ticket</string>
+    <string name="noTicket">No. Ticket</string>
+    <string name="project">Proyecto</string>
+    <string name="projectName">Nombre del proyecto</string>
+    <string name="device">Plataforma</string>
+    <string name="selectDevice">Selecciona la plataforma</string>
+    <string name="date">Fecha</string>
+    <string name="content">Correcciones o requerimientos</string>
+    <string name="userId">Usuario</string>
+    <string name="report">Reporte de ticket</string>
+    <string name="pdf">Subir PDF</string>
+    <string name="add">Agregar</string>
+    <string name="_add">Añadir</string>
+    <string name="addTicketSuccessful">¡Ticket agregado correctamente!</string>
+    <string name="errorSelectDevice">Error, debes seleccionar una plataforma</string>
+    <string name="errorSelectUser">Error, debes seleccionar un usuario</string>
+    <string name="seePDF">Ver PDF</string>
+    <string name="errorNumberField">Sólo números</string>
+
+    // Ticket PDF Screen
+    <string name="ticketPDF">PDF</string>
+</resources>
